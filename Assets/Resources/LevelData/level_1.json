@@ -1,0 +1,23 @@
+{
+	"EnemySpawnInterval": 0.4,
+	"EnemiesToSpawn": [
+		{
+			"ID": "1",
+			"Data": {
+				"Health": 100,
+				"MoveSpeed": 10,
+				"AttackCooldown": 1,
+				"Damage": 25
+			}
+		},
+		{
+			"ID": "2",
+			"Data": {
+				"Health": 200,
+				"MoveSpeed": 8,
+				"AttackCooldown": 1.5,
+				"Damage": 40
+			}
+		}
+	]
+}
